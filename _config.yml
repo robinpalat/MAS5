@@ -6,7 +6,7 @@ description: >
   Modelo Experimental de Abstracción Sistémica de Cinco Niveles para analizar y navegar distintos grados de abstracción en fenómenos, problemas y lenguaje.
 email: robinpalat@gmail.com
 
-baseurl: "/ESTO" # the subpath of your site, e.g. /blog
+baseurl: "/MAS5" # the subpath of your site, e.g. /blog
 url: "https://robinpalat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
