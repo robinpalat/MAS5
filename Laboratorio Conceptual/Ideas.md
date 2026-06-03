@@ -1,0 +1,1 @@
+herramientas: malla de coordenadas para manipular nodos
